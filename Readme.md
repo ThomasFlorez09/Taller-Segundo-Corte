@@ -18,8 +18,3 @@ Para el desarrollo de este taller, se requiere contar con herramientas como Dock
 La estructura del repositorio está organizada de la siguiente manera: una carpeta punto1/ que contiene los ejemplos y la documentación en LaTeX; una carpeta punto2/ que incluye la simulación del brazo UR5 y su respectivo Dockerfile; y una carpeta punto3/ donde se encuentra la implementación de TurtleBot3 con LIDAR y SLAM, también con su Dockerfile.
 
 Este trabajo fue desarrollado bajo la orientación del docente, en el marco de la asignatura de Internet de las Cosas (IoT). El objetivo principal es fortalecer las competencias de integración de tecnologías emergentes en entornos virtuales y simulados, en correspondencia con las tendencias actuales del IoT y la robótica moderna.
-
-![image](https://github.com/ThomasFlorez09/Taller-Segundo-Corte/blob/main/images/Imagen1.png)
-
-
-![image](https://github.com/ThomasFlorez09/Taller-Segundo-Corte/blob/main/images/Imagen25.png)
